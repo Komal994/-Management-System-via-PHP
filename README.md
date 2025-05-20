@@ -44,8 +44,8 @@ This module captures student information through a web form and stores it in a M
 
 > Add your screenshots below. Example:
 > ```
-> ![Student Registartion](screenshots\Student registration.png)
-> ![Database Connectivity](screenshots\Student database connectivity.png)
+> ![Student Registartion](screenshots/Student registration.png)
+> ![Database Connectivity](screenshots/Student database connectivity.png)
 > ```
 
 ---
@@ -64,8 +64,8 @@ This module handles organizational staff information.
 
 >  Add your screenshots below:
 > ```
-> ![Employee Management System](screenshots\Employee Mangament System.png)
-> ![Employee Database](screenshots\Employee Database.png)
+> ![Employee Management System](screenshots/Employee Mangament System.png)
+> ![Employee Database](screenshots/Employee Database.png)
 > ```
 
 ---
@@ -84,8 +84,8 @@ Simulates airline operations management (for academic/demo use).
 
 >  Add your screenshots below:
 > ```
-> ![Flight Management System](screenshots\Flight Mangament System.png)
-> ![Flight Database](screenshots\Flight Database.png)
+> ![Flight Management System](screenshots/Flight Mangament System.png)
+> ![Flight Database](screenshots/Flight Database.png)
 > ```
 
 ---
@@ -104,8 +104,8 @@ Keeps track of books and student lending activity.
 
 >  Add your screenshots below:
 > ```
-> ![Library Management System](screenshots\Libarary Managment System.png)
-> ![Library Management Database ](screenshots\Library Management Database.png)
+> ![Library Management System](screenshots/Libarary Managment System.png)
+> ![Library Management Database ](screenshots/Library Management Database.png)
 > ```
 
 ---
