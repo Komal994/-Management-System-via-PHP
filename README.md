@@ -44,8 +44,8 @@ This module captures student information through a web form and stores it in a M
 
 > Add your screenshots below. Example:
 > ```
-> ![Student Registartion](E:\Management System via PHP\screenshots\Student registration.png)
-> ![Database Connectivity](E:\Management System via PHP\screenshots\Student database connectivity.png)
+> ![Student Registartion](screenshots\Student registration.png)
+> ![Database Connectivity](screenshots\Student database connectivity.png)
 > ```
 
 ---
@@ -64,8 +64,8 @@ This module handles organizational staff information.
 
 >  Add your screenshots below:
 > ```
-> ![Employee Management System](E:\Management System via PHP\screenshots\Employee Mangament System.png)
-> ![Employee Database](E:\Management System via PHP\screenshots\Employee Database.png)
+> ![Employee Management System](screenshots\Employee Mangament System.png)
+> ![Employee Database](screenshots\Employee Database.png)
 > ```
 
 ---
@@ -84,8 +84,8 @@ Simulates airline operations management (for academic/demo use).
 
 >  Add your screenshots below:
 > ```
-> ![Flight Management System](E:\Management System via PHP\screenshots\Flight Mangament System.png)
-> ![Flight Database](E:\Management System via PHP\screenshots\Flight Database.png)
+> ![Flight Management System](screenshots\Flight Mangament System.png)
+> ![Flight Database](screenshots\Flight Database.png)
 > ```
 
 ---
@@ -104,8 +104,8 @@ Keeps track of books and student lending activity.
 
 >  Add your screenshots below:
 > ```
-> ![Library Management System](E:\Management System via PHP\screenshots\Libarary Managment System.png)
-> ![Library Management Database ](E:\Management System via PHP\screenshots\Library Management Database.png)
+> ![Library Management System](screenshots\Libarary Managment System.png)
+> ![Library Management Database ](screenshots\Library Management Database.png)
 > ```
 
 ---
@@ -125,13 +125,7 @@ Keeps track of books and student lending activity.
 3. Start Apache and MySQL from XAMPP control panel
 4. Create a new MySQL database (e.g., `management_system`)
 5. Create required tables using `phpMyAdmin` or `.sql` scripts
-6. Open the following in your browser:
 
-```
-http://localhost/Student%20Registration%20System/studentRegistrationForm.html
-```
-
----
 
 ##  Security Suggestions
 
@@ -143,11 +137,10 @@ http://localhost/Student%20Registration%20System/studentRegistrationForm.html
 
 ##  Future Enhancements
 
-- Admin login with role-based access.
 - PDF/Excel report generation.
 - AJAX-based dynamic updates.
 - Bootstrap for responsive design.
-- Migrate to MVC structure or use Laravel for scalability.
+
 
 ---
 
